@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Runtime data
+logs/
+.browser_profile/
